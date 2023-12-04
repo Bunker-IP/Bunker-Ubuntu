@@ -1,0 +1,85 @@
+/**BUNKER-[IP] - HTML5/CSS3 Static Web CSS3**/
+
+body {
+	margin:0px;
+	padding:0px;
+}
+
+header {
+	background:#f0f0f0;
+	padding:5px;
+	font-family:Trebuchet MS;
+	font-weight:Normal;
+	text-align:center;
+	height:auto;
+	margin:0px auto;
+}
+
+header img {
+	width:200px;
+	height:41px;
+	position:relative;
+	display:block;
+	margin:0px auto;
+	}
+
+h1,
+header h1 {
+	line-height:24px;
+	font-size:2rem;
+	font-family:Trebuchet MS;
+}
+
+header p {
+	font-family:Trebuchet MS;
+	font-weight:Normal;
+	text-align:center;
+	font-size:1rem;
+	line-height:1rem;
+}
+
+footer {
+	background:#000000;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	padding:10px;
+	margin:0px auto;
+	position:relative;
+	display:block;
+	font-weight:normal;
+}
+
+main h1,
+code strong {
+	text-align:left!important;
+	margin:20px;
+}
+
+
+.Bunker-ip-body {
+	position:relative;
+	display:block;
+	padding:0px;
+	margin:0px auto;
+	width:100%;
+	height:auto;
+}
+	
+.bunker-container {
+	max-width:1200px;
+	width:100%;
+	height:auto;
+	position:relative;
+	display:block;
+	padding:10px;
+	margin:0px auto;
+	font-family:Trebuchet MS;
+	font-size:16px;
+	line-height:24px;
+	
+}
+
+code {
+background:#f0f0f0;
+	padding:5px;
+	}
