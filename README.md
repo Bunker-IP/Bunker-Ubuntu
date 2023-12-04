@@ -24,7 +24,6 @@ apt install packet-NAME
 **Bunker-[IP]** Run a internal RBL List, from RBL System all over the world.
 
 If the IP gets a positive result match in the RBL System then that IP Address will be added into ip.bunker list control.
-The IP Address going to be add in a **ip.bunker** list control.
 
 "Ip.bunker" is a database with ips information.
 This **ip.bunker** You can admin all IP listed on a RBL to make sure your firewall deny all from this ip address.
