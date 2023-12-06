@@ -10,4 +10,3 @@ echo "";
 echo "Going to remove pre-run.sh"
 
 sudo rm -rf pre-run.sh
-exit
