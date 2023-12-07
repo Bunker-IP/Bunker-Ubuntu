@@ -1,5 +1,15 @@
 ![alt text](https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png) 
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/unixfool/SLiM-Theme?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/unixfool/SLiM-Theme?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/unixfool/SLiM-Theme?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/unixfool/SLiM-Theme?color=violet&style=for-the-badge">
+</p>
+
+
 **REALTIME BLACKHOLE LIST**
 
 (RBL) Lists of IPs that are detected as possible spam threats, or that have been detected sending spam.
