@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/unixfool/SLiM-Theme?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/unixfool/SLiM-Theme?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/unixfool/SLiM-Theme?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/unixfool/SLiM-Theme?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Bunker-IP/Bunker-Ubuntu?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Bunker-IP/Bunker-Ubuntu?color=violet&style=for-the-badge">
 </p>
 
 
