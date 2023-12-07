@@ -1,8 +1,10 @@
-![alt text](https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png) 
+<p align="center">
+  ![alt text](https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png) 
+  <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
+</p>p
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
