@@ -1,8 +1,8 @@
  ![alt text](https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png) 
  
 <p align="center">
-   RELEASE: <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
-</p>p
+  <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
+</p>
 
 
 <p align="center">
