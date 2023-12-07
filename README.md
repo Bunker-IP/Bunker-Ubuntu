@@ -157,3 +157,6 @@ Bunker-[IP] MultiSites Templates with Bootstrap5
 
 ```
 
+### For more info check wiki
+
+https://github.com/Bunker-IP/Bunker-Ubuntu/wiki
