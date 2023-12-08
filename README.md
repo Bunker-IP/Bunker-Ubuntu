@@ -38,6 +38,7 @@ apt install packet-NAME
 ```
 
 **Or run our pre-run.sh script!**
+
 **NOTE:** This file is going to be remove after run it for the first time and install all the packets.
 
 ```
