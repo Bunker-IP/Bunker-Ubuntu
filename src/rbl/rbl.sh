@@ -1,3 +1,4 @@
+#!/bin/bash
 # Bunker-[IP]
 # This is a RBL Search IP Address and Firewall Rules
 # With Bunker-[IP] You make sure your system is secure with a RBL System.

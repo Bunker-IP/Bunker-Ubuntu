@@ -31,7 +31,6 @@ Ubuntu Linux + UFW (Ubuntu FireWall)
 dig, whois, net-tools, ufw, build-essential 
 ```
 
-**Ubuntu:** 
 
 ```
 apt install packet-NAME
