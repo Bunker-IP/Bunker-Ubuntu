@@ -4,7 +4,7 @@
 
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
+  <img src="https://img.shields.io/badge/Bunker_IP-v1.2_BETA-BETA">
 </p>
 
 
