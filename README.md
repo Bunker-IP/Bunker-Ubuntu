@@ -1,4 +1,21 @@
-![alt text](https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png) 
+ <p align="center">
+  <img src="https://dnsbl.evilnet.org/assets/img/bunker-ip-small-logo.png">
+</p>
+
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bunker_IP-v1.1_BETA-BETA">
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Bunker-IP/Bunker-Ubuntu?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Bunker-IP/Bunker-Ubuntu?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Bunker-IP/Bunker-Ubuntu?color=violet&style=for-the-badge">
+</p>
+
 
 **REALTIME BLACKHOLE LIST**
 
@@ -14,9 +31,18 @@ Ubuntu Linux + UFW (Ubuntu FireWall)
 dig, whois, net-tools, ufw, build-essential 
 ```
 
-**Ubuntu**: 
+**Ubuntu:** 
+
 ```
 apt install packet-NAME
+```
+
+**Or run our pre-run.sh script!**
+
+**NOTE:** This file is going to be remove after run it for the first time and install all the packets.
+
+```
+sh pre-run.sh
 ```
 
 **Bunker-[IP]** Made Easy you server security and configuration.
@@ -140,3 +166,6 @@ Bunker-[IP] MultiSites Templates with Bootstrap5
 
 ```
 
+### For more info check wiki
+
+https://github.com/Bunker-IP/Bunker-Ubuntu/wiki

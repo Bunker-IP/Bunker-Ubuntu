@@ -308,8 +308,11 @@ handleSubmenu2Input() {
          echo "${YELLOW}This can take some time ${NORMAL}";
          echo "";
             for IP in $(cat ./ip/ip.bunker); do
-                sudo ufw insert 1 deny  from $IP
+                sudo ufw insert 1 deny from $IP
             done
+            echo "ip.bunker going to flush content."; 
+            echo "All IP Address add on Firewall, check status.";
+            rm -rf ./ip/ip.bunker && touch ./ip/ip.bunker
         echo "";
         ;;
         9)
